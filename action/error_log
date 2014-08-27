@@ -1,0 +1,2 @@
+[08-Sep-2013 10:21:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mintfive/public_html/site_mehedi.pw/mims/action/add_student.php:17) in /home/mintfive/public_html/site_mehedi.pw/mims/action/add_student.php on line 18
+[08-Sep-2013 10:55:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mintfive/public_html/site_mehedi.pw/mims/action/add_student.php:17) in /home/mintfive/public_html/site_mehedi.pw/mims/action/add_student.php on line 18
